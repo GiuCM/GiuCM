@@ -1,6 +1,6 @@
 <h1>
 Welcome to my Github, I'm Giuliana Missio!
-<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">
 </h1>
 
 - 🔥 Fullstack developer JR
