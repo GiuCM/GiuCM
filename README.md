@@ -5,9 +5,7 @@ Welcome to my Github, I'm Giuliana Missio!
 
 - 🔥 Fullstack developer JR
 
-- 💻 I'm now an intern at John Deere Financial
-
-- 📚 I like to read, watch tv shows and program
+- 💻 I work at John Deere Financial
 
 <br><br>
 
